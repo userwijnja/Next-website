@@ -12,7 +12,7 @@ const Hero = (props) => (
     My personal portfolio
   </SectionTitle>
   <SectionText>
-    I am Myrthe. Here is some information about myself.
+    I am Maarten. Here is some information about myself.
   </SectionText>
   <Button onClick={() => window.location = "https://google.com"}>Click me</Button>
 </LeftSection>
