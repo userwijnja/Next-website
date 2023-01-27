@@ -1,3 +1,3 @@
-## https://lustrous-gaufre-3cf28c.netlify.app/
+## https://next-portfolio-website.netlify.app/
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
